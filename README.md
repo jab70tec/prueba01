@@ -1,4 +1,4 @@
 # prueba01
-prueba del sistema
-.aqui agrego informacion sobre el uso o instalacion
-*va el asterisco
+prueba del sistema.  
+aqui agrego informacion sobre el uso o instalacion  
+*va el asterisco*
